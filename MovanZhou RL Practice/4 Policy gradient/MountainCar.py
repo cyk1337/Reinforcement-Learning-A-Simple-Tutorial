@@ -12,7 +12,7 @@ _____.___._______________  __.____ __________    _________   ___ ___    _____  .
  
 
 @author: Yekun Chai
-@license: Center on Research of Intelligent Systems and Engineering, IA, CAS
+@license: IACAS
 @contact: chaiyekun@gmail.com
 @file: MountainCar.py
 @time: 3/22/19 5:06 PM

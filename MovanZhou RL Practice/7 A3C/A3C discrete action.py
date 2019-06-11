@@ -12,7 +12,7 @@ _____.___._______________  __.____ __________    _________   ___ ___    _____  .
  
 
 @author: Yekun Chai
-@license: Center on Research of Intelligent Systems and Engineering, IA, CAS
+@license: IACAS
 @contact: chaiyekun@gmail.com
 @file: A3C discrete action.py
 @time: 3/27/19 5:48 PM
