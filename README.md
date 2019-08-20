@@ -9,3 +9,7 @@
 1. Vanilla PG
 2. deep deterministic policy gradient
 3. A3C
+
+
+---
+credit to: Morvan Python
